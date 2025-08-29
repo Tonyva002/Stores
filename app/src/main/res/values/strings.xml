@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stores</string>
+
+    <string name="add_store">Add store</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="required">Required</string>
+    <string name="phone">Phone</string>
+    <string name="image_url">Image URL</string>
+    <string name="website">Website</string>
+    <string name="call">Call</string>
+    <string name="go_website">Go to the website</string>
+    <string name="create_store">Create store\n</string>
+    <string name="edit_store">Edit store\n</string>
+    <string name="save">Save</string>
+    <string name="arg_id" translatable="false">key_id\n</string>
+    <string name="main_error_website">This store does not have a website</string>
+    <string name="invalid_url">URL with invalid format</string>
+    <string name="no_compatible_app_found">No compatible app found</string>
+
+
+    <string name="store_image">Store image</string>
+    <string name="store_name">Store name</string>
+    <string name="store_created_success">Store created successfully</string>
+    <string name="store_updated_success">Store updated successfully</string>
+    <string name="store_message_valid">Complete the required fields</string>
+
+    <string name="dialog_delete_title">Delete store?</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="dialog_delete_cancel">Cancel</string>
+    <string name="dialog_options_title">What do you want to do?</string>
+    <string name="dialog_exit_title">Exit this screen?</string>
+    <string name="dialog_exit_message">If you have not saved the changes they will be lost.</string>
+    <string name="dialog_exit_ok">Go out</string>
+
+
+</resources>

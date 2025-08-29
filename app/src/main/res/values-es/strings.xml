@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiendas</string>
+
+    <string name="add_store">Agregar tienda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="required">Requerido</string>
+    <string name="phone">Telefono</string>
+    <string name="image_url"> Url de la imagen</string>
+    <string name="website">Sitio web</string>
+    <string name="call">Llamar</string>
+    <string name="go_website">Ir al sitio web</string>
+    <string name="create_store">Crear tienda</string>
+    <string name="edit_store">Editar tienda</string>
+    <string name="save">Guardar</string>
+    <string name="main_error_website">Esta tienda no cuenta con un sitio web</string>
+    <string name="invalid_url">Url con formato no valido</string>
+    <string name="no_compatible_app_found">No se encontro ninguna app compatible</string>
+
+
+    <string name="store_image">Imagen de la tienda</string>
+    <string name="store_name">Nombre de la tienda</string>
+    <string name="store_created_success">Tienda creada correctamente</string>
+    <string name="store_updated_success">Tienda actualizada correctamente</string>
+    <string name="store_message_valid">Completa los campos requeridos</string>
+
+    <string name="dialog_delete_title">Eliminar tienda?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="dialog_options_title">Que desea hacer?</string>
+    <string name="dialog_exit_title">Salir de esta pantalla?</string>
+    <string name="dialog_exit_message">Si no has guardados los cambios se perderan</string>
+    <string name="dialog_exit_ok">Salir</string>
+</resources>
